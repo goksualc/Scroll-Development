@@ -1,4 +1,4 @@
-# Scroll-Development
+# Scroll Geliştirici Dökümantasyonu
 
 ![My Image](/scroll.png)
 
@@ -29,9 +29,8 @@ cd Scroll-Development
 ## Hazırlayan
 
 <a href="https://github.com/goksualc/Scroll-Development/graphs/contributors">
-  <img src="https://avatars.githubusercontent.com/u/71547915?v=4" />
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50" height="50" />
 </a>
-
 <a href="https://twitter.com/0xgks">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg"width="50" height="50" />
 </a>
